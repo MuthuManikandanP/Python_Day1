@@ -1,3 +1,5 @@
+#Get input for variable name, age , address. print it
+
 Name=input()
 Age=input()
 Address=input()
